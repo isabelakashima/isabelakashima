@@ -5,7 +5,7 @@
       <table>
             <tr>
             <td><a href="https://github.com/isabelakashima">
-            <img height="280em" width="100%"src="https://github-readme-stats.vercel.app/api?username=isabelakashima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=9AC791&icon_color=B0808C&title_color=B0808C&text_color=9C92B0"/></td>
+            <img height="280em" width="100%"src="https://github-readme-stats.vercel.app/api?username=isabelakashima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=ffe5cf&icon_color=fe6e29&title_color=fe6e29&text_color=fbac7f"/></td>
             </tr>
       </table>
 </div>
